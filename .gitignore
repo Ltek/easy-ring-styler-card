@@ -1,0 +1,7 @@
+.vscode
+node_modules/
+
+# local build snapshots
+archive/
+easy-ring-styler-card-v*.js
+check*.cjs
