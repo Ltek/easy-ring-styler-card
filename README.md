@@ -19,7 +19,7 @@ A Home Assistant Dashboard **custom card** for Ring cameras and doorbells — re
 
 ---
 
-## What's new in this fork
+## New Stuff
 
 - **Latching Talk button** — as well as hold-to-talk, the Talk button can latch: one tap starts talking, the next stops. Useful on a wallpanel where holding a button is awkward.
 
